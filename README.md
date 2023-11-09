@@ -14,3 +14,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihila-premakanthan&" alt="nihila-premakanthan" /></p>
 
+<script src="https://tryhackme.com/badge/1363656"></script>
