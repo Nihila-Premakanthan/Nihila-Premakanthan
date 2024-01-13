@@ -3,7 +3,7 @@
 
 <h3 align="center">Welcome to my profile! I am a cyber security enthusiast. Thanks for visiting and I'd love to <a href = "www.linkedin.com/in/nihila-premakanthan-686678215">connect</a>!</h3>
 
-<img src = "https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUxMjIxMzgsIm5iZiI6MTcwNTEyMTgzOCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTEzVDA0NTcxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQxZTVkNzU3Mzk4ZWQxY2MzZDQ5NTM5ZTdhYjZlZjJmNTA5YTFkZjcxY2Q3ODBjN2RmODI1Njg0MzIyYjc2OTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.EXwPC9eRDrVi0rwLh7zgXDwh0j2ZLy9ifdac7UjBGZI">
+
 
 <hr>
 <div>
@@ -31,3 +31,21 @@
 
 
 <img src= "https://camo.githubusercontent.com/4d11f93bca635e529eeedef9eb13e20553a9ed6dc4bda4ed8602abc915c6a02a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f31373730372f73637265656e73686f74732f323431333735342f7272722e676966">
+
+
+
+
+ <table>
+        
+        <tr colspan = 2>
+        	<td><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihila-premakanthan" alt="nihila-premakanthan" /></a> </td>  
+        </tr>
+        
+        
+        <tr>
+            
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=nihila-premakanthan&show_icons=true&locale=en" alt="nihila-premakanthan" /></td>
+            <td>            <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihila-premakanthan&" alt="nihila-premakanthan" /></td>
+
+        </tr>
+</table>
