@@ -24,11 +24,11 @@
 <h3 align="center">My Statistics</h3>
  <table>     
  <tr>
- <td colspan = 2 style = "text-align: center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihila-premakanthan&theme=dark" alt="nihila-premakanthan" align = "center"/></a></td>  
+ <td colspan = 2 style = "text-align: center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihila-premakanthan" alt="nihila-premakanthan" align = "center"/></a></td>  
  </tr>        
  <tr>
- <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=nihila-premakanthan&show_icons=true&locale=en&theme=dark" alt="nihila-premakanthan" /></td>
- <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihila-premakanthan&&theme=dark" alt="nihila-premakanthan" /></td>
+ <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=nihila-premakanthan&show_icons=true&locale=en" alt="nihila-premakanthan" /></td>
+ <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihila-premakanthan&" alt="nihila-premakanthan" /></td>
  </tr>
 </table>
 </div>
