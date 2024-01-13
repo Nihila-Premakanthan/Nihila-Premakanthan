@@ -36,16 +36,16 @@
 
 
  <table>
+       
+ <tr colspan = 2>
+ td><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihila-premakanthan" alt="nihila-premakanthan" /></a> </td>  
+ </tr>
         
-        <tr colspan = 2>
-        	<td><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihila-premakanthan" alt="nihila-premakanthan" /></a> </td>  
-        </tr>
         
-        
-        <tr>
+ <tr>
             
-            <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=nihila-premakanthan&show_icons=true&locale=en" alt="nihila-premakanthan" /></td>
-            <td>            <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihila-premakanthan&" alt="nihila-premakanthan" /></td>
+  <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=nihila-premakanthan&show_icons=true&locale=en" alt="nihila-premakanthan" /></td>
+  <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihila-premakanthan&" alt="nihila-premakanthan" /></td>
 
-        </tr>
+ </tr>
 </table>
