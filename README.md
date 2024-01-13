@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nihila-premakanthan&label=Profile%20views&color=0e75b6&style=flat" alt="nihila-premakanthan" /> </p>
 
 <h3 align="center">Welcome to my profile! I am a cyber security enthusiast. Thanks for visiting and I'd love to <a href = "www.linkedin.com/in/nihila-premakanthan-686678215">connect</a>!</h3>
-
+<div>
 <table>
 <tr>
 <td>
@@ -14,7 +14,9 @@
 <td>
  <img src="https://tryhackme-badges.s3.amazonaws.com/Nihila.png" alt="TryHackMe">
 </td>
-
+</tr>
+</table>
+</div>
 
 <hr>
 <div>
