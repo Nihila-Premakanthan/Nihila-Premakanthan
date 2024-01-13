@@ -33,9 +33,10 @@
 </table>
 </div>
 
-<h3>View mt Try Hack Me Badge</h3>
-   <img src="https://tryhackme-badges.s3.amazonaws.com/Nihila.png" alt="TryHackMe" align = "center" >
- 
+<center>
+<h3>View my Try Hack Me Badge!</h3>
+   <img src="https://tryhackme-badges.s3.amazonaws.com/Nihila.png" alt="TryHackMe">
+</center> 
 
 
 <hr>
