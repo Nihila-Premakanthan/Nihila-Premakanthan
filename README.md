@@ -3,7 +3,7 @@
 
 <h3 align="center">Welcome to my profile! I am a cyber security enthusiast. Thanks for visiting and I'd love to <a href = "www.linkedin.com/in/nihila-premakanthan-686678215">connect</a>!</h3>
 <div>
-<table>
+<table align = "center">
 <tr>
 <td>
  <p>🌱 Currently learning various aspects of Cyber Security</p>
