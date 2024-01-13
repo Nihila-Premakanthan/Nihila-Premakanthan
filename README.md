@@ -33,16 +33,9 @@
 </table>
 </div>
 
-<table>
- <tr>
-  <td>
-   <h3>Try Hack me</h3>
-  </td>
-  <td>
-   <img src="https://tryhackme-badges.s3.amazonaws.com/Nihila.png" alt="TryHackMe">
-  </td>
- </tr>
-</table>
+<h3>View mt Try Hack Me Badge</h3>
+   <img src="https://tryhackme-badges.s3.amazonaws.com/Nihila.png" alt="TryHackMe" align = "center" >
+ 
 
 
 <hr>
