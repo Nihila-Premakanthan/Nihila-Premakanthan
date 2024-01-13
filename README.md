@@ -8,13 +8,15 @@
 <hr>
 <div>
 <h3 align="center">My Statistics</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihila-premakanthan" alt="nihila-premakanthan" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nihila-premakanthan&show_icons=true&locale=en" alt="nihila-premakanthan" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nihila-premakanthan&" alt="nihila-premakanthan" /></p>
-
-<hr>
+ <table>     
+ <tr>
+ <td colspan = 2><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihila-premakanthan" alt="nihila-premakanthan" align = "center"/></a></td>  
+ </tr>        
+ <tr>
+ <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=nihila-premakanthan&show_icons=true&locale=en" alt="nihila-premakanthan" /></td>
+ <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihila-premakanthan&" alt="nihila-premakanthan" /></td>
+ </tr>
+</table>
 </div>
 
 
@@ -35,13 +37,4 @@
 
 
 
- <table>
-       
- <tr>
- <td colspan = 2><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihila-premakanthan" alt="nihila-premakanthan" align = "center"/></a></td>  
- </tr>        
- <tr>
- <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=nihila-premakanthan&show_icons=true&locale=en" alt="nihila-premakanthan" /></td>
- <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihila-premakanthan&" alt="nihila-premakanthan" /></td>
- </tr>
-</table>
+
