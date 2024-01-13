@@ -32,9 +32,9 @@
  </tr>
 </table>
 </div>
-
+<hr>
 <center>
-<h3>View my Try Hack Me Badge!</h3>
+<h3 align = "center">View my Try Hack Me Badge!</h3>
    <img src="https://tryhackme-badges.s3.amazonaws.com/Nihila.png" alt="TryHackMe">
 </center> 
 
