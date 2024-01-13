@@ -37,8 +37,8 @@
 
  <table>
        
- <tr colspan = 2>
- <td><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihila-premakanthan" alt="nihila-premakanthan" /></a> </td>  
+ <tr>
+ <td colspan = 2><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihila-premakanthan" alt="nihila-premakanthan" /></a> </td>  
  </tr>        
  <tr>
  <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=nihila-premakanthan&show_icons=true&locale=en" alt="nihila-premakanthan" /></td>
