@@ -3,6 +3,17 @@
 
 <h3 align="center">Welcome to my profile! I am a cyber security enthusiast. Thanks for visiting and I'd love to <a href = "www.linkedin.com/in/nihila-premakanthan-686678215">connect</a>!</h3>
 
+<table>
+<tr>
+<td>
+ <p>🌱Currently learning various aspects of CS</p>
+ <p>🧑‍🎓UG at SLIIT</p>
+ <p>💬 Ask me about Cyber Security</p>
+ <p>📫 Reach me on nihiprem02@gmail.com</p>
+</td>
+<td>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Nihila.png" alt="TryHackMe">
+</td>
 
 
 <hr>
@@ -26,7 +37,7 @@
 
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Nihila.png" alt="TryHackMe">
+
 
 
 
