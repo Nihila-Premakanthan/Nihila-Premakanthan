@@ -6,13 +6,13 @@
 <table>
 <tr>
 <td>
- <p>🌱Currently learning various aspects of CS</p>
- <p>🧑‍🎓UG at SLIIT</p>
+ <p>🌱 Currently learning various aspects of Cyber Security</p>
+ <p>🧑‍🎓 UG at SLIIT</p>
  <p>💬 Ask me about Cyber Security</p>
  <p>📫 Reach me on nihiprem02@gmail.com</p>
 </td>
 <td>
- <img src="https://tryhackme-badges.s3.amazonaws.com/Nihila.png" alt="TryHackMe">
+ <img src= "https://camo.githubusercontent.com/4d11f93bca635e529eeedef9eb13e20553a9ed6dc4bda4ed8602abc915c6a02a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f31373730372f73637265656e73686f74732f323431333735342f7272722e676966">
 </td>
 </tr>
 </table>
@@ -45,7 +45,7 @@
 
 
 
-<img src= "https://camo.githubusercontent.com/4d11f93bca635e529eeedef9eb13e20553a9ed6dc4bda4ed8602abc915c6a02a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f31373730372f73637265656e73686f74732f323431333735342f7272722e676966">
+
 
 
 
