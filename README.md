@@ -28,7 +28,7 @@
  </tr>        
  <tr>
  <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=nihila-premakanthan&show_icons=true&locale=en&theme=dark" alt="nihila-premakanthan" /></td>
- <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihila-premakanthan&theme=dark" alt="nihila-premakanthan" /></td>
+ <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihila-premakanthan&&theme=dark" alt="nihila-premakanthan" /></td>
  </tr>
 </table>
 </div>
